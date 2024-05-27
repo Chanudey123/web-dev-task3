@@ -1,0 +1,208 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+}
+a{
+    margin-right: 130px;
+}
+#veritech{
+    color: orangered;
+    font-size: 29px;
+    position: relative;
+    top: 12px;
+    left: 25px;
+    text-decoration: none;
+}
+#home ,#about, #service , #design , #contact{
+    position: relative;
+    top: 7px;
+    text-decoration: none;
+    color: white;
+}
+#searchtype{
+    position: relative;
+    top: 5px;
+    height: 0.8cm;
+    width: 6cm;
+    color: white;
+    background-color: black;
+    border: 0.5px solid ;
+    border-color: orangered;
+    font-size: 15px;
+}
+#btn{
+    position: relative;
+    top: 5px;
+    height: 0.8cm;
+    width: 2cm;
+    background-color:orangered ;
+    color: white;
+    border-radius: 5px;
+}
+body{
+    background-image: url("back.img.jpeg");
+}
+#webdesign , #course{
+    color: white;
+    position: relative;
+    top: 90px;
+    left: 50px;
+    font-size: 40px;
+    font-weight: 400;
+}
+#development{
+    color: orangered;
+    font-size: 60px;
+    font-weight: 400;
+    position: relative;
+    top: 90px;
+    left: 50px;
+    
+}
+#paragraph1, #paragraph2, #paragraph3{
+   color: white;
+   font-size: 25px; 
+   position: relative;
+   top: 3.2cm;
+   left: 50px;
+   font-weight: 100;
+}
+#btn1{
+    height: 1.2cm;
+    width: 4cm;
+    border-radius: 10px;
+    background-color: orangered;
+    position: relative;
+    left: 50px;
+    top: 4cm;
+    font-weight: bold;
+    font-size: 15px;
+}
+#loginpage{
+    height: 12cm;
+    width: 8.5cm;
+    border: solid;
+    position: relative;
+    left: 29.5cm;
+    bottom: 5cm;
+    border-radius: 10px;
+    background-color: black;
+}
+#loginhere{
+    height: 1.2cm;
+    width: 7.5cm;
+    border-radius: 10px;
+    position: relative;
+    left: 17px;
+    top: 10px;
+    font-size: 22px;
+    color: orangered;
+    background-color: white;
+}
+#enteremail{
+    height: 1.2cm;
+    width: 7.5cm;
+    position: relative;
+    top: 0.7cm;
+    left:14px ;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    font-size: 17px;
+}
+#enterpass{
+    height: 1.2cm;
+    width: 7.5cm;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    font-size: 17px;
+    position: relative;
+    top: 1cm;
+    left: 14px;
+}
+#login{
+    height: 1.2cm;
+    width: 7.5cm;
+    border-radius: 10px;
+    font-size:17px ;
+    color: black;
+    background-color: orangered;
+    position: relative;
+    top: 1.5cm;
+    left: 15px;
+    font-weight: bold;
+}
+#dont{
+   font-size: 18px;
+   color: white;
+   position: relative;
+   top: 2cm;
+   left: 70px; 
+   font-weight: 500;
+}
+#signup{
+    font-size: 18px;
+    font-weight: bold;
+    color: orangered;
+    position: relative;
+    top: 2.2cm;
+    left: 100px;
+    text-decoration: none;
+}
+#here{
+    font-size: 18px;
+    color: white;
+    position: relative;
+    top: 1.650cm;
+    left: 166px;
+}
+#loginwith{
+    font-size: 17px;
+    color: white;
+    position: relative;
+    top: 2.3cm;
+    left: 110px;
+}
+
+#image1{
+    height: 45px;
+    width: 45px;
+    position: relative;
+    top: 3cm;
+    left: 15px;
+}
+#image2{
+    height: 45px;
+    width: 45px;
+    position: relative;
+    top: 1.750cm;
+    left: 75px; 
+}
+#image3{
+    height: 45px;
+    width: 45px;
+    position:relative;
+    top:0.45cm ;
+    left: 135px;
+}
+#image4{
+    height: 45px;
+    width: 45px;
+    position: relative;
+    bottom: 0.8cm;
+    left: 195px;
+}
+#image5{
+    height: 45px;
+    width: 45px;
+    position: relative;
+    bottom: 2.1cm;
+    left:260px ;
+}
+
+
